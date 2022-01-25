@@ -33,3 +33,5 @@ Pull request instructions:
 - click on button that says "contribute"
 - verify arrow direction
 - make pull request (do not merge it)
+
+added some things
